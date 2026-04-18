@@ -6,6 +6,10 @@ export const metadata = {
   title: "Saugat Balami | Portfolio",
   description:
     "Portfolio of Saugat Balami - Data Analyst, Aspiring Data Scientist, and Web Developer.",
+  icons: {
+    icon: "/images/sb.png", // favicon path in `public/images/sb.png`
+    apple: "/images/sb.png", // optional for iOS
+  },
 };
 
 export default function RootLayout({ children }) {

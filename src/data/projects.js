@@ -38,8 +38,8 @@ export const projects = [
     tech: ["Next.js", "FastAPI", "PostgreSQL", "Tailwind CSS", "SQLAlchemy"],
     github: "https://github.com/yourusername/logistics-saas",
     live: "#",
-    video: "/videos/logistics-demo.mp4",
-    image: "/images/projects/logistics-saas.png",
+    video: null,
+    image: "/images/gl.png",
   },
 ];
 
