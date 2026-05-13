@@ -11,7 +11,7 @@ export const projects = [
     github: "https://github.com/yourusername/credit-risk-dss",
     live: "#",
     video: "",
-    image: "/images/projects/credit-risk.png",
+    image: "/images/credit-risk.png",
   },
   {
     title: "Telecom KPI Analytics Dashboard",
@@ -25,7 +25,7 @@ export const projects = [
     github: "https://github.com/yourusername/telecom-kpi-dashboard",
     live: "#",
     video: "",
-    image: "/images/projects/telecom-dashboard.png",
+    image: "/images/telecom-dashboard.png",
   },
   {
     title: "Logistics Tracking SaaS Platform",
